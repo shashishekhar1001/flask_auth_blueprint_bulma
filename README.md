@@ -89,7 +89,7 @@ At this point, the app runs at http://127.0.0.1:5000/.
 
 # Note:
 
-Use the correct path to point sqlite db in main.py
+Use the correct path to point sqlite db in __init__.py
 ```bash
 app.config['SQLALCHEMY_DATABASE_URI'] = r'sqlite:///E:/Flask_Basic_Auth/SRC/db.sqlite'
 ``` 
