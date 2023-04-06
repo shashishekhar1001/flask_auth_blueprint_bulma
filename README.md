@@ -34,13 +34,6 @@ http://localhost:5000/profile
 <br />
 
 
-<br />
-
-# Signup Page :
-http://localhost:5000/signup
-[![Auth-5.png](https://i.postimg.cc/jdz4wDtF/Auth-5.png)](https://postimg.cc/XpYCt7Zf)
-
-<br />
 
 
 # 👉 Set Up for Windows
